@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BikeLong</string>
+    <string name="logo_name">logo</string>
+    <string name="location_title">대여소 보기</string>
+    <string name="activity_title">활동량 보기</string>
+    <string name="goal_title">목표량 설정</string>
+</resources>
